@@ -1,0 +1,16 @@
+# Discord Bot
+discord.py>=2.3.0
+
+# Google Calendar API
+google-api-python-client>=2.100.0
+google-auth-httplib2>=0.1.1
+google-auth-oauthlib>=1.1.0
+
+# GitHub API
+PyGithub>=2.1.1
+
+# Environment variables
+python-dotenv>=1.0.0
+
+# Async scheduling
+apscheduler>=3.10.4
